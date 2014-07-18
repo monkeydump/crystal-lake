@@ -1,0 +1,155 @@
+// Your custom SCSS should be written here...
+
+@import '../bower_components/gumby-parallax/_parallax.scss';
+
+
+section {
+  @include row();
+}
+article {
+  @include column(8);
+}
+aside {
+  @include column(4);
+}
+
+
+
+.chkbox {
+	clear: left;
+	float: left;
+}
+.desc {
+	float: left;
+	width: 9em;
+	padding-left: 1em;
+}
+.price {
+	float: left;
+	width: 4em;
+	padding-right: 1em;
+	text-align: right;
+}
+.selbox {
+	clear: right;
+}
+.total {
+	clear: left;
+}
+
+
+    body {
+	/*background-color: #F0FFFF; */ 
+	background-color: #332F3E;  
+    /*background-color: #E0FFFF;*/
+    /*background-image: url('/img/ladyTexture.jpg');
+	background-repeat: repeat-x repeat-x;*/
+}
+
+    tr {
+    /*background-color: #F0FFFF;*/
+	background-color: #332F3E;
+}
+
+	table td {
+		border: 0;
+}
+
+.crystal {
+    color: #fff;
+    font-family: 'aladin', 'sans-serif';
+    /*font-family: 'Dr Sugiyama', cursive;*/
+    /*font-family: 'Raleway', cursive;*/
+    margin: 0px auto 30px;
+    display: block;
+    font-weight: 100;
+    width: 90%;
+    text-transform: uppercase;
+    /*font-size: 50px;*/
+    letter-spacing: 30px;
+    /*line-height: 50px;*/
+    /*text-indent: 250px;*/
+    /*position: relative;*/
+    text-align: center;
+    /*top: 50%;*/
+    margin-top: 7%;
+    border-top: 1px solid rgba(255,255,255,0.5);
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+    -webkit-backface-visibility: hidden;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);    
+}
+
+.artist {
+    color: rgba(255, 255, 255, 0.3);
+    font-weight: 100;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    text-align: center;
+    -webkit-backface-visibility: hidden;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+
+.parallax {
+    /*background: url(../img/professionals.png) no-repeat;*/
+    /*background: url(/img/parallax/green.jpg) no-repeat;*/
+    /*background-size: cover;*/
+    height: 400px;
+    margin-bottom: 0px;
+        &#home {
+            background: url(/img/backdrop/lakeLady.jpg);
+            background-size: cover;
+        }
+        &#services {
+            background: url(/img/artwork/eagle.jpg);
+            background-size: cover;
+        }
+        &#about {
+            background: url(/img/parallax/fear.jpg);
+            background-size: cover;
+        }
+        &#questions {
+            background: url(/img/parallax/greeny-sky.jpg);
+            background-size: cover;
+        }
+        &#keyword {
+            background: url(/img/parallax/keyword1.jpg);
+            background-size: cover;
+        }
+        &#email {
+            background: url(/img/parallax/email-marketing.jpg);
+            background-size: cover;
+        }
+        &#audit {
+            background: url(/img/parallax/audit1.jpg);
+            background-size: cover;
+        }
+        &#linkedin {
+            background: url(/img/parallax/linkedin8.jpg);
+            background-size: cover;
+        }    
+        &#contact {
+            /*background: url(/home/plenty/images/claire/parallax/contact1.png);*/
+            background: url(/img/parallax/contact4.png);
+            background-size: cover;    
+        }
+}
+
+/*.backGround {
+        background-size: cover;
+		background-position: center;
+}*/
+
+.backGround {
+    width: 100%; 
+    height: px; 
+    position: fixed; 
+    left: 0px; 
+    top: 0px; 
+    z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+}

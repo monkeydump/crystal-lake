@@ -1,0 +1,16 @@
+{
+	"build": {
+		"gumbyPath": "bower_components/gumby",
+		"outPath": "js"
+	},
+	"modules": [
+		"fixed",
+		"skiplink",
+		"navbar",
+		"tabs",
+		"checkbox"
+	],
+	"addons": [
+		"bower_components/gumby-parallax/gumby.parallax.js"
+	]
+}

@@ -1,0 +1,31 @@
+01  appetisers  Barbecued Spare Ribs    4.60            (with sauce)
+02  appetisers  Hors D'oeuvres (For 2 Persons)  6.80            (Seseme Prawn, Spare Ribs, Seaweed, Mini Spring Rolls, Crispy Won Ton & Satay Chicken)
+03  appetisers  Barbecued Spare Ribs with Honey Sauce   4.60
+04  appetisers  Peking Spare Ribs with Sauce    4.60
+05  appetisers  Spare Ribs with Spice, Salt & Chilli    4.60    Y
+06  appetisers  Mashed Prawn with Sesame Seed on Toast  3.00
+07  appetisers  Chicken with Sesame Seed on Toast   2.90
+08  appetisers  Crispy Wan Ton in Sweet & Sour Sauce    3.20
+09  appetisers  Crispy Duck Spring Rolls    2.00            (2 Pieces)
+10  appetisers  Crispy Spring Rolls 2.00            (2 Pieces)
+11  appetisers  Vegetarian Spring Rolls 2.00    y   (2 Pieces)
+12  appetisers  Vegetarian Mini Spring Rolls    2.00        y   (8 Pieces)
+13  appetisers  House Spring Rolls  2.00            (2 Pieces)
+14  appetisers  Prawn Cutlet    4.60
+15  appetisers  Prawn in Spice, Salt & Chilli   4.60        y
+16  appetisers  Squid in Spice, Salt & Chilli   4.60        y
+16a appetisers  Beef in Spice, Salt & Chilli    4.60        y
+17  appetisers  Deep Fried Shanghai Dumplings   3.30            (8 Pieces)
+18  appetisers  Crispy Seaweed  2.90        y   (Spring Greens)
+19  appetisers  Smoked Shredded Chicken 4.00
+20  appetisers  Prawn Crackers  1.50
+21  appetisers  Crispy Noodles  2.00
+22a appetisers  Deep Fried Chicken Wings Chef Special with Peking Sauce 2.80  
+22b appetisers  Deep Fried Chicken Wings Chef Special with BBQ Sauce    2.80
+22c appetisers  Deep Fried Chicken Wings Chef Special with Spice, Salt & Chilli 2.70    y
+23  appetisers  Sweet & Sour Spare Ribs 4.70
+24  appetisers  Tempura Vegetables Bento    3.30
+25  appetisers  Tempura Prawns Bento    4.60
+26  appetisers  Chicken in Breadcrumbs with Tonkatsu Sauce  3.80
+27  appetisers  Pork in Breadcrumbs with Tonkatsu Sauce 3.80
+28  appetisers  Vegetable Samoa 2.60            (8 Pieces)

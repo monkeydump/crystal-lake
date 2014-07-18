@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Stretched Background Image</title>
+        <style type="text/css">
+            /* Remove margins from the 'html' and 'body' tags, and ensure the page takes up full screen height. */
+            html, body {height:100%; margin:0; padding:0;}
+
+            /* Set the position and dimensions of the background image. */
+            #page-background {position:fixed; top:0; left:0; width:100%; height:100%;}
+
+            /* Specify the position and layering for the content that needs to appear in front of the background image. Must have a higher z-index value than the background image. Also add some padding to compensate for removing the margin from the 'html' and 'body' tags. */
+            #content {position:relative; z-index:1; padding:10px;}
+        </style>
+        <!-- The above code doesn't work in Internet Explorer 6. To address this, we use a conditional comment to specify an alternative style sheet for IE 6. -->
+        <!--[if IE 6]>
+        <style type="text/css">
+            html {overflow-y:hidden;}
+            body {overflow-y:auto;}
+            #page-background {position:absolute; z-index:-1;}
+            #content {position:static;padding:10px;}
+        </style>
+        <![endif]-->
+    </head>
+    <body>
+        <div id="page-background"><img src="http://www.quackit.com/pix/milford_sound/milford_sound.jpg" width="100%" height="100%" alt="Smile"></div>
+        <!--<div id="page-background"><img src="/img/backdrop/lakeLady.jpg" width="100%" height="100%" alt="Smile"></div>-->
+        <div id="content">
+            <h2>Stretch that Background Image!</h2>
+            <p>This text appears in front of the background image. This is because we've used CSS to layer the content in front of the background image. The background image will stretch to fit your browser window. You can see the image grow and shrink as you resize your browser.</p>
+            <p>Go on, try it - resize your browser!</p>
+        </div>
+    </body>
+</html>
