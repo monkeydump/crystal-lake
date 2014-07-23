@@ -241,6 +241,28 @@
         <?php include 'includes/menu/setDinner.php' ; ?>
         
         <?php include 'includes/menu/test.php' ; ?>
+
+        <?php
+        $menu = array();
+        $menu['Appetisers 2'] = array(
+            array(
+                'numRef' => 01,
+                'description' => "Barbecued Spare Ribs <em>(with sauce)</em>",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 02,
+                'description' => "Hors D'oeuvres (For 2 Persons)",
+                'costAmount' => "6.80",
+            ),
+        );
+
+        foreach ($menu as $menuName => $foodItems) {
+            include __DIR__.'/templates/foodItems.php';
+        }
+
+        ?>
+
             </article>
     </section>
 
