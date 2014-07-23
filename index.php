@@ -89,162 +89,12 @@
 		<!--</div>-->
 	</div>
     <section>
-		
-        <aside>
-			<nav id="sidebar-nav-holder" class="vertical-nav" gumby-fixed="top" gumby-pin="[data-target='icons']">
-            <ul id="sidebar-nav">
-              
-                <li class="active">
-                  <!--<a href="#appetisers" class="skip" gumby-update gumby-duration="600" gumby-goto="[data-target='appetisers']">Appetisers</a>-->
-				  <!--<p class="skiplink small primary"><a href="#" gumby-goto="[data-target='appetisers']">Appetisers</a></p>-->
-				  <a href="#appetisers" class="toggle skip" gumby-trigger=".selector | .another" gumby-on="mouseover mouseout">Appetisers</a>
-                </li>
-                
-                <li>
-                  <a href="#soup" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='soup']">Soup</a>
-				  <!--<p class="skip"><a href="#soup" gumby-goto="[data-target='soup']">Soup</a></p>-->
-				  <!--<a href="#soup" class="skip" gumby-trigger=".selector | .another" gumby-on="mouseover mouseout">Soup</a>-->
-                </li>
-                
-                <li>
-                  <a href="#rice" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='rice']">Rice Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='rice']">Rice Dishes</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#chowMein" class="skip" gumby-update gumby-duration="600" gumby-goto="[data-target='chowMein']">Chow Mein Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='chowMein']">Chow Mein Dishes</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#chopSuey" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='chopSuey']">Chop Suey Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Chop Suey Dishes</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#omelette" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='omelette']">Omelette / Foo Yung</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Omelette / Foo Yung</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#chicken" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='chicken']">Chicken Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Chicken Dishes</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#beef" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='beef']">Beef Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='beef']">Beef Dishes</a></p>-->
-                </li>
-                
-                <li>
-                  <a href="#seafood" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='seafood']">Prawn & Seafood</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Prawn & Seafood</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#duck" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='duck']">Duck Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='duck']">Duck Dishes</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#pork" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='pork']">Pork Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='pork']">Pork Dishes</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#sweetSour" class="skip" gumby-update gumby-duration="600" gumby-goto="[data-target='sweetSour']">Sweet & Sour</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Sweet & Sour</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#curry" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='curry']">Curry Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='curry']">Curry Dishes</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#thai" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='thai']">Thai Curry</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Thai Curry</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#satay" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='satay']">Satay Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']"></a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#vegetable" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='vegetable']">Vegetable Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']"></a></p>-->
-                </li>
-				
-				<li>
-	              <a href="#english" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='english']">English Dishes</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Vegetable Dishes</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#extra" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='extra']">Extra</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Extra</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#desserts" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='desserts']">Desserts</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Desserts</a></p>-->
-                </li>
-				
-				<li>
-                  <a href="#setDinners" class="toggle skip" gumby-update gumby-duration="600" gumby-goto="[data-target='setDinners']">Set Dinners</a>
-				  <!--<p class="skip"><a href="#" gumby-goto="[data-target='']">Set Dinners</a></p>-->
-                </li>
-            </ul>
-          </nav>
-		</aside>
-        <article>
-        
-<!--	    <?php /*include 'includes/menu/appetisers.php' ; */?>
-
-        <?php /*include 'includes/menu/soup.php' ; */?>
-        
-        <?php /*include 'includes/menu/rice.php' ; */?>
-        
-        <?php /*include 'includes/menu/chowMein.php' ; */?>
-        
-        <?php /*include 'includes/menu/chopSuey.php' ; */?>
-        
-        <?php /*include 'includes/menu/omelette.php' ; */?>
-        
-        <?php /*include 'includes/menu/chicken.php' ; */?>
-        
-        <?php /*include 'includes/menu/beef.php' ; */?>
-        
-        <?php /*include 'includes/menu/seafood.php' ; */?>
-        
-        <?php /*include 'includes/menu/duck.php' ; */?>
-        
-        <?php /*include 'includes/menu/pork.php' ; */?>
-        
-        <?php /*include 'includes/menu/sweetSour.php' ; */?>
-        
-        <?php /*include 'includes/menu/curry.php' ; */?>
-        
-        <?php /*include 'includes/menu/thai.php' ; */?>
-        
-        <?php /*include 'includes/menu/satay.php' ; */?>
-        
-        <?php /*include 'includes/menu/vegetable.php' ; */?>
-        
-        <?php /*include 'includes/menu/english.php' ; */?>
-        
-        <?php /*include 'includes/menu/extra.php' ; */?>
-        
-        <?php /*include 'includes/menu/desserts.php' ; */?>
-        
-        <?php /*include 'includes/menu/setDinner.php' ; */?>
-        
-        --><?php /*include 'includes/menu/test.php' ; */?>
 
         <?php
+
+        // Define menu items in a PHP multidimensional array
         $menu = array();
-        $menu['Appetisers 2'] = array(
+        $menu['Appetisers'] = array(
             array(
                 'numRef' => 01,
                 'description' => "Barbecued Spare Ribs <em>(with sauce)</em>",
@@ -256,14 +106,27 @@
                 'costAmount' => "6.80",
             ),
         );
+        $menu['Noodles'] = array(
+            array(
+                'numRef' => 03,
+                'description' => "Noodles with special sauce and mixed nuts",
+                'costAmount' => "6.20",
+            ),
+            array(
+                'numRef' => 04,
+                'description' => "Chow mein mucho mucho",
+                'costAmount' => "3.60",
+            ),
+        );
 
-        foreach ($menu as $menuName => $foodItems) {
-            include __DIR__.'/templates/foodItems.php';
-        }
+        // Include the aside template which uses the $menu array variable
+        include __DIR__.'/templates/aside.php';
+
+        // Include the article template which also uses the $menu array which in turn calls the foodItems and foodItem templates
+        include __DIR__.'/templates/article.php';
 
         ?>
 
-            </article>
     </section>
 
       
