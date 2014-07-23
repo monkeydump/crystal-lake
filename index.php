@@ -193,5 +193,43 @@
 	<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 	<![endif]-->
 
+    <script type="text/javascript">
+        $(function() {
+
+            // jQuery on click binding when anything with the "selectable" class is clicked
+            $('.selectable').on('click', function() {
+                $tr = $(this).parent();
+                $quantity = $tr.find('select');
+                if ($quantity.val() == 0 || $quantity.val() == undefined) {
+                    $quantity.val(1);
+                    updateSelectedState($tr, $quantity.val());
+                }
+            })
+
+            // jQuery on change binding when a food item quantity is changed
+            $('.foodItem .quantity select').on('change', function() {
+                $tr = $(this).parent().parent();
+                updateSelectedState($tr, $(this).val());
+            });
+
+        });
+
+        // Simple function to add and remove the "selected" class if an item is selected or not
+        function updateSelectedState($tr, quantity) {
+            if (quantity > 0) {
+                $tr.addClass('selected');
+            } else {
+                $tr.removeClass('selected');
+            }
+        }
+
+    </script>
+
+    <style>
+        .selected {
+            background: green;
+        }
+    </style>
+
   </body>
 </html>
