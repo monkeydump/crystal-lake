@@ -39,12 +39,12 @@
 	<!-- <link rel="stylesheet" href="css/style.css"> -->
 
 	<script src="bower_components/gumby/js/libs/modernizr-2.6.2.min.js"></script>
-    <script type="text/javascript" src="js/orderform04.js"></script>
+<!--    <script type="text/javascript" src="js/orderform04.js"></script>-->
     <!--    Put this here to get my Checkbox tally working??    -->
     <!--  http://www.mredkj.com/javascript/orderform.html  -->
     <script type="text/javascript">
     //<![CDATA[
-    window.onload = setupScripts;
+/*    window.onload = setupScripts;
     function setupScripts()
     {
         var anOrder1 = new OrderForm();
@@ -52,7 +52,7 @@
 		var anOrder3 = new OrderForm('b_', 2);
 		var anOrder4 = new OrderForm('c_', -1, 2);
 		var anOrder5 = new OrderForm('d_');
-    }
+    }*/
     //]]>
     </script>
     <style type="text/css">
@@ -200,47 +200,47 @@
 		</aside>
         <article>
         
-	    <?php include 'includes/menu/appetisers.php' ; ?>
+<!--	    <?php /*include 'includes/menu/appetisers.php' ; */?>
 
-        <?php include 'includes/menu/soup.php' ; ?>
+        <?php /*include 'includes/menu/soup.php' ; */?>
         
-        <?php include 'includes/menu/rice.php' ; ?>
+        <?php /*include 'includes/menu/rice.php' ; */?>
         
-        <?php include 'includes/menu/chowMein.php' ; ?>
+        <?php /*include 'includes/menu/chowMein.php' ; */?>
         
-        <?php include 'includes/menu/chopSuey.php' ; ?>
+        <?php /*include 'includes/menu/chopSuey.php' ; */?>
         
-        <?php include 'includes/menu/omelette.php' ; ?>
+        <?php /*include 'includes/menu/omelette.php' ; */?>
         
-        <?php include 'includes/menu/chicken.php' ; ?>
+        <?php /*include 'includes/menu/chicken.php' ; */?>
         
-        <?php include 'includes/menu/beef.php' ; ?>
+        <?php /*include 'includes/menu/beef.php' ; */?>
         
-        <?php include 'includes/menu/seafood.php' ; ?>
+        <?php /*include 'includes/menu/seafood.php' ; */?>
         
-        <?php include 'includes/menu/duck.php' ; ?>
+        <?php /*include 'includes/menu/duck.php' ; */?>
         
-        <?php include 'includes/menu/pork.php' ; ?>
+        <?php /*include 'includes/menu/pork.php' ; */?>
         
-        <?php include 'includes/menu/sweetSour.php' ; ?>
+        <?php /*include 'includes/menu/sweetSour.php' ; */?>
         
-        <?php include 'includes/menu/curry.php' ; ?>
+        <?php /*include 'includes/menu/curry.php' ; */?>
         
-        <?php include 'includes/menu/thai.php' ; ?>
+        <?php /*include 'includes/menu/thai.php' ; */?>
         
-        <?php include 'includes/menu/satay.php' ; ?>
+        <?php /*include 'includes/menu/satay.php' ; */?>
         
-        <?php include 'includes/menu/vegetable.php' ; ?>
+        <?php /*include 'includes/menu/vegetable.php' ; */?>
         
-        <?php include 'includes/menu/english.php' ; ?>
+        <?php /*include 'includes/menu/english.php' ; */?>
         
-        <?php include 'includes/menu/extra.php' ; ?>
+        <?php /*include 'includes/menu/extra.php' ; */?>
         
-        <?php include 'includes/menu/desserts.php' ; ?>
+        <?php /*include 'includes/menu/desserts.php' ; */?>
         
-        <?php include 'includes/menu/setDinner.php' ; ?>
+        <?php /*include 'includes/menu/setDinner.php' ; */?>
         
-        <?php include 'includes/menu/test.php' ; ?>
+        --><?php /*include 'includes/menu/test.php' ; */?>
 
         <?php
         $menu = array();
