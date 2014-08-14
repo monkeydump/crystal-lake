@@ -298,7 +298,87 @@
                 'costAmount' => "2.50",
             ),
         );
-
+        $menu['Rice'] = array(
+            array(
+                'numRef' => 40,
+                'description' => "Chicken Fried Rice",
+                'costAmount' => "3.40",
+            ),
+             array(
+                'numRef' => 41,
+                'description' => "Roast Pork Fried Rice",
+                'costAmount' => "3.40",
+            ),
+              array(
+                'numRef' => 42,
+                'description' => "Beef Fried Rice",
+                'costAmount' => "3.40",
+            ),
+               array(
+                'numRef' => 43,
+                'description' => "Shrimp Fried Rice",
+                'costAmount' => "3.50",
+            ),
+                array(
+                'numRef' => 44,
+                'description' => "King Prawn Fried Rice",
+                'costAmount' => "4.60",
+            ),
+                 array(
+                'numRef' => 45,
+                'description' => "Special Fried Rice",
+                'costAmount' => "3.50",
+            ),
+                  array(
+                'numRef' => 46,
+                'description' => "Singapore Style Fried Rice",
+                'costAmount' => "4.60",
+            ),
+                   array(
+                'numRef' => 47,
+                'description' => "House Special with Boiled Rice",
+                'costAmount' => "4.50",
+            ),
+                    array(
+                'numRef' => 48,
+                'description' => "Crystal Fried Rice",
+                'costAmount' => "3.30",
+            ),
+                     array(
+                'numRef' => 49,
+                'description' => "Mixed Vegetable Fried Rice",
+                'costAmount' => "3.00",
+            ),
+                      array(
+                'numRef' => 50,
+                'description' => "Mushroom Fried Rice",
+                'costAmount' => "3.00",
+            ),
+                       array(
+                'numRef' => 51,
+                'description' => "Egg Fried Rice",
+                'costAmount' => "2.20",
+            ),
+                        array(
+                'numRef' => 52,
+                'description' => "Plain Boiled Rice",
+                'costAmount' => "2.00",
+            ),
+                     array(
+                'numRef' => 53,
+                'description' => "Crispy Roast Pork & Green Bean Fried Rice",
+                'costAmount' => "3.60",
+            ),
+        );
+        $menu['Chow Mein'] = array(
+            array(
+                'numRef' => 54,
+                'description' => "Chicken Chow Mein",
+                'costAmount' => "3.60",
+            ),
+        );
+            
+            
         // Include the aside template which uses the $menu array variable
         include __DIR__.'/templates/aside.php';
 
