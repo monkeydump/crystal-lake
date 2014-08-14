@@ -241,16 +241,61 @@
                 'costAmount' => "2.60",
             ),
         );
-        $menu['Noodles'] = array(
+        $menu['Soup'] = array(
             array(
-                'numRef' => 03,
-                'description' => "Noodles with special sauce and mixed nuts",
-                'costAmount' => "6.20",
+                'numRef' => 29,
+                'description' => "Chicken & Sweet Corn Soup",
+                'costAmount' => "2.00",
             ),
             array(
-                'numRef' => 04,
-                'description' => "Chow mein mucho mucho",
-                'costAmount' => "3.60",
+                'numRef' => 30,
+                'description' => "Chicken & Noodle Soup",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 31,
+                'description' => "Chicken & Mushroom Soup",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 32,
+                'description' => "Peking Hot & Sour Soup",
+                'costAmount' => "2.50",
+            ),
+            array(
+                'numRef' => 33,
+                'description' => "Thai Tom Yum Goong",
+                'costAmount' => "2.50",
+            ),
+            array(
+                'numRef' => 34,
+                'description' => "Wan Ton Soup",
+                'costAmount' => "2.50",
+            ),
+            array(
+                'numRef' => 35,
+                'description' => "Beef with Egg Flower Soup",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 36,
+                'description' => "Mixed Vegetable Soup",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 37,
+                'description' => "Sweet Corn Soup",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 38,
+                'description' => "Tomato with Egg Flower Soup",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 39,
+                'description' => "Crab Meat Sweet Corn Soup",
+                'costAmount' => "2.50",
             ),
         );
 
