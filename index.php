@@ -531,7 +531,103 @@
                 'costAmount' => "3.00",
             ),
         );
-        
+        $menu['Chicken Dishes'] = array(
+            array(
+                'numRef' => 85,
+                'description' => "Chicken with Green Pepper in Black Bean Sauce",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 86,
+                'description' => "Chicken with White Mushrooms",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 87,
+                'description' => "Chicken with Mixed Vegetables",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 88,
+                'description' => "Chicken with Beansprouts",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 89,
+                'description' => "Chicken with Ginger & Spring Onions",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 90,
+                'description' => "Chicken in Oyster Sauce",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 91,
+                'description' => "Chicken in Lemon Sauce",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 92,
+                'description' => "Pan Fried Chicken with Garlic & Spring Onion",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 93,
+                'description' => "Chicken with Bamboo Shoots & Cashew Nuts",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 94,
+                'description' => "Chicken with Chinese Mushrooms & Bamboo Shoots",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 95,
+                'description' => "Chicken with Ginger & Pineapple",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 96,
+                'description' => "Crystal Fried Chicken",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 97,
+                'description' => "Kung Po Chicken",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 98,
+                'description' => "Szechuan Chicken",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 99,
+                'description' => "Chicken with Cashew Nuts in Yellow Bean Sauce",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 100,
+                'description' => "Chicken in Sea Spicy Sauce",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 101,
+                'description' => "Chicken with Mixed Nuts in Special Sauce",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 102,
+                'description' => "Fried Chicken with Black Vinegar & Sesame",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 103,
+                'description' => "Nonya Spicy Roast Chicken",
+                'costAmount' => "4.20",
+            ),
+        );
         
         
         // Include the aside template which uses the $menu array variable
