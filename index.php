@@ -376,8 +376,124 @@
                 'description' => "Chicken Chow Mein",
                 'costAmount' => "3.60",
             ),
+            array(
+                'numRef' => 55,
+                'description' => "Roast Pork Chow Mein",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 56,
+                'description' => "Beef Chow Mein",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 57,
+                'description' => "Shrimp Chow Mein",
+                'costAmount' => "3.70",
+            ),
+            array(
+                'numRef' => 58,
+                'description' => "King Prawn Chow Mein",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 59,
+                'description' => "Special Chow Mein",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 60,
+                'description' => "Singapore Vermicelli",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 61,
+                'description' => "Special Vermicelli",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 62,
+                'description' => "House Special Chow Mein - Crispy Noodle",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 63,
+                'description' => "Mixed Vegetables Chow Mein",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 64,
+                'description' => "Mushroom Chow Mein",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 65,
+                'description' => "Monk's Vegetables Chown Mein",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 66,
+                'description' => "Fried Ho Fun with Beef",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 67,
+                'description' => "Plain Chow Mein <em>(Large)</em>",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 68,
+                'description' => "Fried Chicken in Crispy Noodles",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 69,
+                'description' => "Kam Heong Udon Noodles",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 70,
+                'description' => "Fried Ho Fun with Green Peppers in Black Bean Sauce",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 71,
+                'description' => "Fried Ho Fun with Seafood",
+                'costAmount' => "4.80",
+            ),
         );
-            
+        $menu['Chop Suey'] = array(
+            array(
+                'numRef' => 72,
+                'description' => "Chicken Chop Suey",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 73,
+                'description' => "Beef Chop Suey",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 74,
+                'description' => "Shrimp Chop Suey",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 75,
+                'description' => "King Prawn Chop Suey",
+                'costAmount' => "4.50",
+            ),
+            array(
+                'numRef' => 76,
+                'description' => "Special Chop Suey",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 77,
+                'description' => "Mushroom Chop Suey",
+                'costAmount' => "3.00",
+            ),
+        );
             
         // Include the aside template which uses the $menu array variable
         include __DIR__.'/templates/aside.php';
