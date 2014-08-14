@@ -105,6 +105,141 @@
                 'description' => "Hors D'oeuvres (For 2 Persons)",
                 'costAmount' => "6.80",
             ),
+            array(
+                'numRef' => 03,
+                'description' => "Barbecued Spare Ribs with Honey Sauce",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 04,
+                'description' => "Peking Spare Ribs with Sauce",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 05,
+                'description' => "Spare Ribs with Spice, Salt & Chilli",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 06,
+                'description' => "Mashed Prawn with Sesame Seed on Toast",
+                'costAmount' => "3.00",
+            ),
+            array(
+                'numRef' => 07,
+                'description' => "Chicken with Sesame Seed on Toast",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 08,
+                'description' => "Crispy Wan Ton in Sweet & Sour Sauce",
+                'costAmount' => "3.20",
+            ),
+            array(
+                'numRef' => 09,
+                'description' => "Crispy Duck Spring Rolls",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 10,
+                'description' => "Crispy Spring Rolls",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 11,
+                'description' => "Vegetarian Spring Rolls",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 12,
+                'description' => "Vegetarian Mini Spring Rolls <em>(8 Pieces)</em>",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 13,
+                'description' => "House Spring Rolls",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 14,
+                'description' => "Prawn Cutlet",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 15,
+                'description' => "Prawn in Spice, Salt & Chilli",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 16,
+                'description' => "Squid in Spice, Salt & Chilli",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 16.1,
+                'description' => "Beef in Spice, Salt & Chilli",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 17,
+                'description' => "Deep Fried Shanghai Dumplings ",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 18,
+                'description' => "Crispy Seaweed ",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 19,
+                'description' => "Smoked Shredded Chicken",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 20,
+                'description' => "Prawn Crackers",
+                'costAmount' => "1.50",
+            ),
+            array(
+                'numRef' => 21,
+                'description' => "Crispy Noodles",
+                'costAmount' => "2.00",
+            ),
+            array(
+                'numRef' => 22,
+                'description' => "Deep Fried Chicken Wings Chef Special",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 23,
+                'description' => "Sweet & Sour Spare Ribs",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 24,
+                'description' => "Tempura Vegetables Bento",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 25,
+                'description' => "Tempura Prawns Bento",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 26,
+                'description' => "Chicken in Breadcrumbs with Tonkatsu Sauce",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 27,
+                'description' => "Pork in Breadcrumbs with Tonkatsu Sauce",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 28,
+                'description' => "Vegetable Samoa",
+                'costAmount' => "2.60",
+            ),
         );
         $menu['Noodles'] = array(
             array(
