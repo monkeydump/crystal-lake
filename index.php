@@ -494,7 +494,46 @@
                 'costAmount' => "3.00",
             ),
         );
-            
+        $menu['Omelette / Foo Yung'] = array(
+            array(
+                'numRef' => 78,
+                'description' => "Chicken Omelette / Foo Yung",
+                'costAmount' => "3.50",
+            ),
+            array(
+                'numRef' => 79,
+                'description' => "Shrimp Omelette / Foo Yung",
+                'costAmount' => "3.50",
+            ),
+            array(
+                'numRef' => 80,
+                'description' => "King Prawn Omelette / Foo Yung",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 81,
+                'description' => "Special Omelette / Foo Yung",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 82,
+                'description' => "Mushroom Omelette / Foo Yung",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 83,
+                'description' => "Plain Omelette / Foo Yung",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 84,
+                'description' => "Cheese Omelette / Foo Yung",
+                'costAmount' => "3.00",
+            ),
+        );
+        
+        
+        
         // Include the aside template which uses the $menu array variable
         include __DIR__.'/templates/aside.php';
 
