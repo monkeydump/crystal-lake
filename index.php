@@ -864,6 +864,374 @@
                 'costAmount' => "4.70",
             ),
         );
+        $menu['Pork Dishes'] = array(
+            array(
+                'numRef' => 150,
+                'description' => "Roast Pork with Beansprouts",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 151,
+                'description' => "Roast Pork with White Mushrooms",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 152,
+                'description' => "Roast Pork with Mixed Vegetables",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 153,
+                'description' => "Roast Pork with Ginger & Spring Onion",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 154,
+                'description' => "Cantonese Crispy Roast Pork",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 155,
+                'description' => "Cantonese Roast Pork",
+                'costAmount' => "3.90",
+            ),
+        );
+        $menu['Sweet & Sour Dishes'] = array(
+            array(
+                'numRef' => 156,
+                'description' => "Sweet & Sour Pork Balls in Batter",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 157,
+                'description' => "Sweet & Sour Chicken Balls in Batter",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 158,
+                'description' => "Sweet & Sour King Prawn Balls in Batter",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 159,
+                'description' => "Sweet & Sour Pork <em>(Cantonese)</em>",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 160,
+                'description' => "Sweet & Sour Chicken <em>(Cantonese)</em>",
+                'costAmount' => "3.80",
+            ),
+            array(
+                'numRef' => 161,
+                'description' => "Sweet & Sour King Prawn <em>(Cantonese)</em>",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 162,
+                'description' => "Sweet & Sour Fish <em>(Cantonese)</em>",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 163,
+                'description' => "Sweet & Sour Mixed Vegetables",
+                'costAmount' => "2.90",
+            ),
+        );
+        $menu['Curry Dishes'] = array(
+            array(
+                'numRef' => 164,
+                'description' => "Chicken Curry",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 165,
+                'description' => "Beef Curry",
+                'costAmount' => "3.60",
+            ),
+            array(
+                'numRef' => 166,
+                'description' => "Shrimp Curry",
+                'costAmount' => "3.70",
+            ),
+            array(
+                'numRef' => 167,
+                'description' => "King Prawn Curry",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 168,
+                'description' => "House Special Curry",
+                'costAmount' => "4.50",
+            ),
+            array(
+                'numRef' => 169,
+                'description' => "Mixed Vegetable Curry",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 170,
+                'description' => "Mushroom Curry",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 171,
+                'description' => "Lamb Curry",
+                'costAmount' => "4.50",
+            ),
+            array(
+                'numRef' => 172,
+                'description' => "Pork Curry",
+                'costAmount' => "3.60",
+            ),
+        );
+        $menu['Thai Green or Red Curry'] = array(
+            array(
+                'numRef' => 173,
+                'description' => "Chicken Curry",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 173.1,
+                'description' => "Beef Curry",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 174,
+                'description' => "Lamb Curry",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 175,
+                'description' => "King Prawn Curry",
+                'costAmount' => "4.80",
+            ),
+        );
+        $menu['Satay Dishes'] = array(
+            array(
+                'numRef' => 176,
+                'description' => "Chicken Satay",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 177,
+                'description' => "Beef Satay",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 178,
+                'description' => "King Prawn Satay",
+                'costAmount' => "4.80",
+            ),
+        );
+        $menu['Vegetable Dishes'] = array(
+            array(
+                'numRef' => 179,
+                'description' => "Fried Mixed Vegetables",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 180,
+                'description' => "Fried Plain Beansprouts",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 181,
+                'description' => "Fried Plain Mushrooms",
+                'costAmount' => "2.80",
+            ),
+            array(
+                'numRef' => 182,
+                'description' => "Fried Bamboo Shoots & Water Chestnuts",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 183,
+                'description' => "Fried Mange Tout & Beansprouts",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 184,
+                'description' => "",
+                'costAmount' => "3.50",
+            ),
+            array(
+                'numRef' => 185,
+                'description' => "",
+                'costAmount' => "2.90",
+            ),
+            array(
+                'numRef' => 186,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 187,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 188,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 189,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 190,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 191,
+                'description' => "",
+                'costAmount' => "3.40",
+            ),
+            array(
+                'numRef' => 192,
+                'description' => "",
+                'costAmount' => "3.50",
+            ),
+            array(
+                'numRef' => 193,
+                'description' => "",
+                'costAmount' => "3.40",
+            ),
+            array(
+                'numRef' => 194,
+                'description' => "",
+                'costAmount' => "3.90",
+            ),
+            array(
+                'numRef' => 195,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 196,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 197,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 198,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 199,
+                'description' => "",
+                'costAmount' => "3.40",
+            ),
+            array(
+                'numRef' => 200,
+                'description' => "",
+                'costAmount' => "2.60",
+            ),
+            array(
+                'numRef' => 201,
+                'description' => "",
+                'costAmount' => "2.60",
+            ),
+            array(
+                'numRef' => 202,
+                'description' => "",
+                'costAmount' => "3.40",
+            ),
+            array(
+                'numRef' => 203,
+                'description' => "",
+                'costAmount' => "3.30",
+            ),
+            array(
+                'numRef' => 204,
+                'description' => "",
+                'costAmount' => "3.20",
+            ),
+        );
+        $menu['English Dishes'] = array(
+            array(
+                'numRef' => 205,
+                'description' => "",
+                'costAmount' => "1.60",
+            ),
+            array(
+                'numRef' => 206,
+                'description' => "",
+                'costAmount' => "3.20",
+            ),
+            array(
+                'numRef' => 207,
+                'description' => "",
+                'costAmount' => "5.90",
+            ),
+            array(
+                'numRef' => 208,
+                'description' => "",
+                'costAmount' => "1.20",
+            ),
+        );
+        $menu[''] = array(
+            array(
+                'numRef' => 209,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 210,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 211,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 212,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 213,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 214,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 215,
+                'description' => "",
+                'costAmount' => "1.10",
+            ),
+            array(
+                'numRef' => 216,
+                'description' => "Plum Sauce",
+                'costAmount' => "1.10",
+            ),
+        );
+        $menu[''] = array(
+            array(
+                'numRef' => 217,
+                'description' => "Banana Fritters",
+                'costAmount' => "1.50",
+            ),
+            array(
+                'numRef' => 218,
+                'description' => "Pineapple Fritters",
+                'costAmount' => "1.50",
+            ),
+        );
         
         
         
