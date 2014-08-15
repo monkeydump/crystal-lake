@@ -628,6 +628,243 @@
                 'costAmount' => "4.20",
             ),
         );
+         $menu['Beef Dishes'] = array(
+            array(
+                'numRef' => 104,
+                'description' => "Beef with Green Pepper in Black Bean Sauce",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 105,
+                'description' => "Beef with White Mushrooms",
+                'costAmount' => "4.00",
+            ),
+             array(
+                'numRef' => 106,
+                'description' => "Beef with Mixed Vegetables",
+                'costAmount' => "4.00",
+            ),
+             array(
+                'numRef' => 107,
+                'description' => "Beef with Broccoli",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 108,
+                'description' => "Beef with Ginger & Spring Onion",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 109,
+                'description' => "Beef with Oyster Sauce",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 110,
+                'description' => "Beef with Bamboo Shoots & Cashew Nuts",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 111,
+                'description' => "Beef with Chinese Mushrooms & Bamboo Shoots",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 112,
+                'description' => "Beef with Ginger & Pineapple",
+                'costAmount' => "4.20",
+            ),
+            array(
+                'numRef' => 113,
+                'description' => "Crispy Fried Shredded Beef in Chilli Sauce",
+                'costAmount' => "4.40",
+            ),
+            array(
+                'numRef' => 114,
+                'description' => "Oriental Fillet Beef",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 115,
+                'description' => "Fillet Beef in Black Pepper Corn Sauce",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 116,
+                'description' => "Ma Po Tofu",
+                'costAmount' => "4.00",
+            ),
+        );
+        $menu['Prawn & Seafood Dishes'] = array(
+            array(
+                'numRef' => 117,
+                'description' => "Prawn with White Mushrooms",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 118,
+                'description' => "Prawn with Mixed Vegetables",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 119,
+                'description' => "Prawn with Green Peppers in Black Bean Sauce",
+                'costAmount' => "4.00",
+            ),
+            array(
+                'numRef' => 120,
+                'description' => "Prawn with Bamboo Shoots & Cashew Nuts",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 121,
+                'description' => "Prawn with Ginger & Spring Onion",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 122,
+                'description' => "Prawn with Tomato",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 123,
+                'description' => "Prawn with Baby Corn",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 124,
+                'description' => "Prawn with Chinese Mushrooms & Bamboo Shoots",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 125,
+                'description' => "Kung Po Prawn",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 126,
+                'description' => "Szechuan Prawn",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 127,
+                'description' => "Pan Fried Fish with Garlic & Spring Onion",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 128,
+                'description' => "Pan Fried Prawn with Garlic & Spring Onion",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 129,
+                'description' => "Kung Po Fish",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 130,
+                'description' => "Mixed Seafood with Cashew Nuts",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 131,
+                'description' => "King Prawn with Cashew Nuts in Special Sauce",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 132,
+                'description' => "King Prawn with Cashew Nuts in Yellow Bean Sauce",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 133,
+                'description' => "Mixed Seafood with Cashew Nuts in Yellow Bean Sauce",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 134,
+                'description' => "Squid with Green Peppers in Black Bean Sauce",
+                'costAmount' => "4.60",
+            ),
+            array(
+                'numRef' => 135,
+                'description' => "Fried Squid with Ginger & Spring Onion",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 136,
+                'description' => "Mussels in Black Bean Sauce",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 137,
+                'description' => "Crispy Prawns with Glazed Walnuts",
+                'costAmount' => "4.80",
+            ),
+            array(
+                'numRef' => 138,
+                'description' => "Scallops with Mange Tout",
+                'costAmount' => "4.80",
+            ),
+        );
+        $menu['Duck Dishes'] = array(
+            array(
+                'numRef' => 139,
+                'description' => "Crispy Aromatic Duck",
+                'costAmount' => "",
+            ),
+            array(
+                'numRef' => 140,
+                'description' => "Crispy Mongolian Lamb",
+                'costAmount' => "6.00",
+            ),
+            array(
+                'numRef' => 141,
+                'description' => "Duck in Plum Sauce",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 142,
+                'description' => "Duck with Green Peppers in Black Bean Sauce",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 143,
+                'description' => "Duck with Chinese Mushrooms & Bamboo Shoots",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 144,
+                'description' => "Duck with White Mushrooms",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 145,
+                'description' => "Duck with Oyster Sauce",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 146,
+                'description' => "Duck with Ginger & Pineapple",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 147,
+                'description' => "Duck with Ginger & Spring Onion",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 148,
+                'description' => "Duck with Orange Sauce",
+                'costAmount' => "4.70",
+            ),
+            array(
+                'numRef' => 149,
+                'description' => "Cantonese Roasted Duck",
+                'costAmount' => "4.70",
+            ),
+        );
+        
         
         
         // Include the aside template which uses the $menu array variable
