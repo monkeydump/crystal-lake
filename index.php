@@ -1052,166 +1052,166 @@
             ),
             array(
                 'numRef' => 184,
-                'description' => "",
+                'description' => "Monk's Vegetables",
                 'costAmount' => "3.50",
             ),
             array(
                 'numRef' => 185,
-                'description' => "",
+                'description' => "Mixed Vegetables with Satay",
                 'costAmount' => "2.90",
             ),
             array(
                 'numRef' => 186,
-                'description' => "",
+                'description' => "Deep Fried Baby Corn in Batter with Sweet & Sour Sauce<",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 187,
-                'description' => "",
+                'description' => "Chinese Mushrooms & Bamboo Shoots with Sweet & Sour Sauce",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 188,
-                'description' => "",
+                'description' => "Four Heavenly Vegetables",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 189,
-                'description' => "",
+                'description' => "Pan Fried Bean Curd with Garlic & Spring Onion",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 190,
-                'description' => "",
+                'description' => "Sweet & Sour Bean Curd",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 191,
-                'description' => "",
+                'description' => "Fried Straw Mushrooms with Cashew Nuts & Cucumber",
                 'costAmount' => "3.40",
             ),
             array(
                 'numRef' => 192,
-                'description' => "",
+                'description' => "Deep Fried Bean Curd with Mixed Nuts in Special Sauce",
                 'costAmount' => "3.50",
             ),
             array(
                 'numRef' => 193,
-                'description' => "",
+                'description' => "Kung Po Bean Curd",
                 'costAmount' => "3.40",
             ),
             array(
                 'numRef' => 194,
-                'description' => "",
+                'description' => "Szechuan Bean Curd",
                 'costAmount' => "3.90",
             ),
             array(
                 'numRef' => 195,
-                'description' => "",
+                'description' => "Shredded Vegetables Szechuan Style",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 196,
-                'description' => "",
+                'description' => "Crispy Bean Curd with Spice, Salt & Chilli",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 197,
-                'description' => "",
+                'description' => "Fried Green Beans with Broccoli",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 198,
-                'description' => "",
+                'description' => "Stir Fried Broccoli",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 199,
-                'description' => "",
+                'description' => "Fried Mushrooms & Straw Mushroom in Oyster Sauce",
                 'costAmount' => "3.40",
             ),
             array(
                 'numRef' => 200,
-                'description' => "",
+                'description' => "Deep Fried Mushrooms in Breadcrumbs",
                 'costAmount' => "2.60",
             ),
             array(
                 'numRef' => 201,
-                'description' => "",
+                'description' => "Ma Po Tofu",
                 'costAmount' => "2.60",
             ),
             array(
                 'numRef' => 202,
-                'description' => "",
+                'description' => "Fried Bok Choy in Oyster Sauce",
                 'costAmount' => "3.40",
             ),
             array(
                 'numRef' => 203,
-                'description' => "",
+                'description' => "Fried Shredded Green Peppers & Potato",
                 'costAmount' => "3.30",
             ),
             array(
                 'numRef' => 204,
-                'description' => "",
+                'description' => "Stir Fried Spicy Potato",
                 'costAmount' => "3.20",
             ),
         );
         $menu['English Dishes'] = array(
             array(
                 'numRef' => 205,
-                'description' => "",
+                'description' => "Deep Fried Onion Rings with Breadcrumbs",
                 'costAmount' => "1.60",
             ),
             array(
                 'numRef' => 206,
-                'description' => "",
+                'description' => "Deep Fried Chicken & Chips",
                 'costAmount' => "3.20",
             ),
             array(
                 'numRef' => 207,
-                'description' => "",
+                'description' => "Sirloin Steak & Chips",
                 'costAmount' => "5.90",
             ),
             array(
                 'numRef' => 208,
-                'description' => "",
+                'description' => "Portion of Chips",
                 'costAmount' => "1.20",
             ),
         );
-        $menu[''] = array(
+        $menu['Extra'] = array(
             array(
                 'numRef' => 209,
-                'description' => "",
+                'description' => "Sweet & Sour Bean Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 210,
-                'description' => "",
+                'description' => "Curry Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 211,
-                'description' => "",
+                'description' => "BBQ Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 212,
-                'description' => "",
+                'description' => "Sweet Chilli Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 213,
-                'description' => "",
+                'description' => "Satay Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 214,
-                'description' => "",
+                'description' => "Lemon Sauce",
                 'costAmount' => "1.10",
             ),
             array(
                 'numRef' => 215,
-                'description' => "",
+                'description' => "Hoi Sin Sauce",
                 'costAmount' => "1.10",
             ),
             array(
@@ -1220,7 +1220,7 @@
                 'costAmount' => "1.10",
             ),
         );
-        $menu[''] = array(
+        $menu['Desserts'] = array(
             array(
                 'numRef' => 217,
                 'description' => "Banana Fritters",
